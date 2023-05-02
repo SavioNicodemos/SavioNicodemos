@@ -25,7 +25,8 @@ Here are some of my latest projects that showcase my superpowers:
  - [Fast Todo](https://github.com/SavioNicodemos/fastTodo) - A beautiful and quick toDo app to quickly add, track and remove your daily things.
  - [Fast Teams](https://github.com/SavioNicodemos/fastTeams) - An app to add your group of football friends and track them all allowing to add in Team A and B and many groups you want.
  - [Go Barber](https://github.com/SavioNicodemos/gobarber-mobile) - (This is my old, but very robust son) An app to make an appointment with the barber you want in all available hours.
- - [Daily Diet](https://github.com/SavioNicodemos/dailyDiet) - (This is my new current baby) An app that makes YOU keep on track of you diet, adding dishes and informing if is inside of your diet ot not.
+ - [Daily Diet](https://github.com/SavioNicodemos/dailyDiet) - An app that makes YOU keep on track of you diet, adding dishes and informing if is inside of your diet ot not.
+  - [Marketspace](https://github.com/SavioNicodemos/marketspace) - (This is my new current baby) An full marketplace where you can add your products with their pictures, activate/deactivate them and also buy products from another person connected directly with whatsapp.
 
 #### But... if you're looking for the big screens, or even no screens \*I want to see objects and HTTP responses in my postman NOW\* you can browse my repositories, but I will list everything here soon, come back in a few days, I will not let you down. Pinky promise!
 You can find more of my projects on [my repositories tab](https://github.com/SavioNicodemos?tab=repositories).
